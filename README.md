@@ -1,6 +1,6 @@
 <!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
 
-# Título do Trabalho
+# Análise de Sentimento em Tweets utilizando NLP para Casos de COVID
 
 #### Alun(o/a): Guylerme Figueiredo(https://github.com/guylerme/tcc-puc-sentiment-analysis).
 #### Orientador(/a/es/as): Leonardo Mendonza(https://github.com/guylerme/tcc-puc-sentiment-analysis).
